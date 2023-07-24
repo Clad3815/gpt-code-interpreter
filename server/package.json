@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "gpt-tokens": "^1.1.1",
+    "html-to-react": "^1.6.0",
+    "jsonrepair": "^3.2.0",
+    "openai": "^3.3.0",
+    "socket.io": "^4.6.0",
+    "uuid": "^9.0.0"
+  },
+  "scripts": {
+    "start": "node --watch server.js"
+  }
+}
